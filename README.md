@@ -9,7 +9,7 @@ Stop Timer: Pause the stopwatch.
 Reset Timer: Stop the stopwatch and reset the timer to zero.
 
 Usage
-Clone the repository: git clone https://github.com/your-username/stopwatch.git
+Clone the repository: git clone [https://github.com/your-username/stopwatch.git](https://github.com/KartikVairagade360/Stopwatch.git)
 Open index.html in your web browser.
 
 Enjoy using the stopwatch!
